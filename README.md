@@ -1,5 +1,6 @@
 # Parking-Lot
 Multiple Entry Parking Lot: Design parking lot system with below features
+
 Contains 'n' parking slots in a linear manner with some of these slots designated as entries. Both 'n' & 'entrySlots' are provided during the parking lot initialisation.
 Once initialised, the parking lot can hold 'n' different vehicles at any given time with one vehicle in each slot.
 Currently, there are different types of vehicles like a Truck, Car, Bus which comes to the Parking Lot. Each slot in the Parking Lot can accommodate any type of vehicle.
